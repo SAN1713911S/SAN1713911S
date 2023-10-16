@@ -10,7 +10,7 @@
 - 💬 Ask me about Python
   
 - 📫 How to reach me: santyo.nino@gmail.com
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/santiago-niño-52b493296" target="_blank">
