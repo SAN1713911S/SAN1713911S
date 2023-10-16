@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**SAN1713911S/SAN1713911S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Santiago! <!--
 
 - 🔭 I’m currently working on data analitycs
 - 🌱 I’m currently learning on new techniques
@@ -12,4 +7,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: santyo.nino@gmail.com
 -->
 
-###
+
+
