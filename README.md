@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Santiago!</h1>
-<h3 align="center">A passionate data analyst from Colombia</h3>
+<h3 align="center">A passionate data analyst from Cota, Colombia</h3>
 
-- 🔭 I’m currently working on data analitycs
+- 🔭 I’m currently working on data science
   
-- 🌱 I’m currently learning on new techniques
+- 🌱 I’m currently learning on new techniques, skills and tools
   
-- 👯 I’m looking to collaborate on data science and IA proyects
+- 👯 I’m looking to collaborate on data science, machine learning and IA proyects
   
-- 💬 Ask me about Python
+- 💬 Ask me about Python, Datakiu and Power BI
   
 - 📫 How to reach me: santyo.nino@gmail.com
   
