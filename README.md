@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Santiago!</h1>
 <h3 align="center">A passionate data scientist from Cota, Colombia</h3>
 
-- 🔭 I’m currently working on data science
+- 🔭 I’m currently working on artificial intelligence
   
 - 🌱 I’m currently learning on new techniques, skills and tools
   
