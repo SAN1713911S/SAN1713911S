@@ -7,7 +7,7 @@
   
 - 👯 I’m looking to collaborate on data science, machine learning and IA proyects
   
-- 💬 Ask me about Python, Datakiu and Power BI
+- 💬 Ask me about Python, Scikit-learn, TensorFlow, Keras, PyTorch, Power BI, SQL and PySpark
   
 - 📫 How to reach me: santyo.nino@gmail.com
   
