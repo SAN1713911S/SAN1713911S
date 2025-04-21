@@ -51,10 +51,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Dataiku_logo.svg" alt="Datakiu" width="40" height="40"/>
+    <img src="https://www.dataiku.com/wp-content/themes/dataiku/images/logos/dataiku-logo-100.svg" alt="Dataiku" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="PySpark" width="40" height="40"/>
