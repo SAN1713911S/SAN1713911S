@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Santiago!</h1>
-<h3 align="center">A passionate data scientist from Cota, Colombia</h3>
+<h3 align="center">A passionate Computer Science and Artificial Intelligence Engenieer from Cota, Colombia</h3>
 
 - 🔭 I’m currently working on artificial intelligence
   
